@@ -1,7 +1,0 @@
-{
-  "name": "LuminaCam iOS",
-  "description": "A premium, iOS-styled camera application allowing users to capture photos with custom PNG frames or AI-generated SVG overlays.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
